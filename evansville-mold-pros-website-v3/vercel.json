@@ -1,0 +1,216 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/our-process.html",
+      "destination": "/our-process",
+      "permanent": true
+    },
+    {
+      "source": "/faq.html",
+      "destination": "/faq",
+      "permanent": true
+    },
+    {
+      "source": "/about-us.html",
+      "destination": "/about-us",
+      "permanent": true
+    },
+    {
+      "source": "/contact.html",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/privacy-policy.html",
+      "destination": "/privacy-policy",
+      "permanent": true
+    },
+    {
+      "source": "/basement-mold-remediation-Evansville.html",
+      "destination": "/basement-mold-remediation-Evansville",
+      "permanent": true
+    },
+    {
+      "source": "/crawl-space-mold-remediation-Evansville.html",
+      "destination": "/crawl-space-mold-remediation-Evansville",
+      "permanent": true
+    },
+    {
+      "source": "/attic-mold-remediation-removal-Evansville.html",
+      "destination": "/attic-mold-remediation-removal-Evansville",
+      "permanent": true
+    },
+    {
+      "source": "/mold-inspection-Evansville.html",
+      "destination": "/mold-inspection-Evansville",
+      "permanent": true
+    },
+    {
+      "source": "/mold-testing-Evansville.html",
+      "destination": "/mold-testing-Evansville",
+      "permanent": true
+    },
+    {
+      "source": "/commercial-mold-remediation-Evansville.html",
+      "destination": "/commercial-mold-remediation-Evansville",
+      "permanent": true
+    },
+    {
+      "source": "/bathroom-kitchen-mold-remediation-Evansville.html",
+      "destination": "/bathroom-kitchen-mold-remediation-Evansville",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas.html",
+      "destination": "/service-areas",
+      "permanent": true
+    },
+    {
+      "source": "/mold-remediation-newburgh-in.html",
+      "destination": "/mold-remediation-newburgh-in",
+      "permanent": true
+    },
+    {
+      "source": "/mold-remediation-boonville-in.html",
+      "destination": "/mold-remediation-boonville-in",
+      "permanent": true
+    },
+    {
+      "source": "/mold-remediation-mount-vernon-in.html",
+      "destination": "/mold-remediation-mount-vernon-in",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mold-remediation-cost.html",
+      "destination": "/blog/mold-remediation-cost",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mold-vs-mildew.html",
+      "destination": "/blog/mold-vs-mildew",
+      "permanent": true
+    },
+    {
+      "source": "/blog/does-homeowners-insurance-cover-mold.html",
+      "destination": "/blog/does-homeowners-insurance-cover-mold",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-prevent-mold.html",
+      "destination": "/blog/how-to-prevent-mold",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-long-does-mold-remediation-take.html",
+      "destination": "/blog/how-long-does-mold-remediation-take",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mold-inspection-vs-testing.html",
+      "destination": "/blog/mold-inspection-vs-testing",
+      "permanent": true
+    },
+    {
+      "source": "/blog/signs-of-hidden-mold.html",
+      "destination": "/blog/signs-of-hidden-mold",
+      "permanent": true
+    },
+    {
+      "source": "/blog/what-causes-mold-in-houses.html",
+      "destination": "/blog/what-causes-mold-in-houses",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-get-rid-of-mold-on-walls.html",
+      "destination": "/blog/how-to-get-rid-of-mold-on-walls",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-get-rid-of-mold-in-bathroom.html",
+      "destination": "/blog/how-to-get-rid-of-mold-in-bathroom",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-get-rid-of-mold-in-basement.html",
+      "destination": "/blog/how-to-get-rid-of-mold-in-basement",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-get-rid-of-mold-in-crawl-space.html",
+      "destination": "/blog/how-to-get-rid-of-mold-in-crawl-space",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-get-rid-of-mold-in-attic.html",
+      "destination": "/blog/how-to-get-rid-of-mold-in-attic",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-get-rid-of-mold-on-wood.html",
+      "destination": "/blog/how-to-get-rid-of-mold-on-wood",
+      "permanent": true
+    },
+    {
+      "source": "/services.html",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/mold-remediation",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/black-mold-removal",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/attic-mold-removal",
+      "destination": "/attic-mold-remediation-removal-Evansville",
+      "permanent": true
+    },
+    {
+      "source": "/mold-inspection",
+      "destination": "/mold-inspection-Evansville",
+      "permanent": true
+    },
+    {
+      "source": "/mold-testing",
+      "destination": "/mold-testing-Evansville",
+      "permanent": true
+    },
+    {
+      "source": "/about",
+      "destination": "/about-us",
+      "permanent": true
+    },
+    {
+      "source": "/locations",
+      "destination": "/service-areas",
+      "permanent": true
+    },
+    {
+      "source": "/mold-remediation-evansville-downtown-evansville",
+      "destination": "/service-areas",
+      "permanent": true
+    },
+    {
+      "source": "/mold-remediation-evansville-haynies-corner",
+      "destination": "/service-areas",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-much-does-mold-remediation-cost-in-evansville",
+      "destination": "/blog/mold-remediation-cost",
+      "permanent": true
+    }
+  ]
+}
